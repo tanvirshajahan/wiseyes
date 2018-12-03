@@ -2091,6 +2091,82 @@ body {
 .cid-rb9wDfYuSE .navbar-collapse {
   flex-basis: auto;
 }
+.cid-rb9ObL92ch {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rb9ObL92ch h2 {
+  text-align: center;
+}
+.cid-rb9ObL92ch h4 {
+  text-align: center;
+  z-index: 1;
+  color: #ffffff;
+}
+.cid-rb9ObL92ch p {
+  z-index: 1;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+.cid-rb9ObL92ch .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rb9ObL92ch .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-rb9ObL92ch .card-img img {
+  z-index: -1;
+  min-height: 100%;
+  min-width: 100%;
+  width: auto;
+  max-width: 600px;
+}
+.cid-rb9OcRzosW {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rb9OcRzosW .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rb9OcRzosW .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-rb9OcRzosW .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rb9OcRzosW .team-item .item-image img {
+  width: 100%;
+}
+.cid-rb9OcRzosW .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rb9OcRzosW .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rb9OcRzosW .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-rb9OcRzosW .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rb9OcRzosW .team-item .item-caption {
+  background: #efefef;
+}
 .cid-rb9CQx1xk9 {
   padding-top: 45px;
   padding-bottom: 90px;
