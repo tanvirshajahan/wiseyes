@@ -1564,6 +1564,10 @@ body {
 .cid-rb9wDfYuSE .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rb9wDfYuSE .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rb9wDfYuSE .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rb9wDfYuSE .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rb9wDfYuSE .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1657,6 +1661,10 @@ body {
   .cid-rb9wDfYuSE .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rb9wDfYuSE .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rb9wDfYuSE .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rb9wDfYuSE .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rb9wDfYuSE .navbar-collapse.collapsing .navbar-buttons,
   .cid-rb9wDfYuSE .navbar-collapse.show .navbar-buttons {
@@ -2374,6 +2382,10 @@ body {
 .cid-rb9wDfYuSE .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rb9wDfYuSE .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rb9wDfYuSE .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rb9wDfYuSE .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rb9wDfYuSE .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2467,6 +2479,10 @@ body {
   .cid-rb9wDfYuSE .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rb9wDfYuSE .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rb9wDfYuSE .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rb9wDfYuSE .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rb9wDfYuSE .navbar-collapse.collapsing .navbar-buttons,
   .cid-rb9wDfYuSE .navbar-collapse.show .navbar-buttons {
@@ -2638,7 +2654,7 @@ body {
 }
 .cid-rba1tIgavt {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #f9f9f9;
 }
 .cid-rba1tIgavt .mbr-section-subtitle {
@@ -2676,8 +2692,8 @@ body {
 .cid-rba06jm5ab {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, #efefef);
+  background-color: #ffffff;
+  background: linear-gradient(#ffffff, #149dcc);
 }
 .cid-rba06jm5ab .carousel-control {
   background: #000;
